@@ -1,0 +1,13 @@
+form{
+    margin-top: 50px;
+}
+input{
+    margin-bottom: 30px;
+}
+p{
+    color: red;
+}
+.nav-link{
+    text-decoration: none;
+    color: white;
+}
