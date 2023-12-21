@@ -125,7 +125,7 @@ app.post('/login',async(request,response) =>{
 })
 
 
-app.get('/todo',authenticateToken,async(request,response) =>{
+app.get('/todo',async(request,response) =>{
 
 
     const query = `SELECT * FROM users`
